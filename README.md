@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Yang perlu di ubah
+1. Saat project dijalankan langsung ke menu home/daftar menu
+2. tidak perlu buat menu per role, cukup buat fitur atau button saja
